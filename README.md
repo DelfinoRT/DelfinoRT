@@ -6,11 +6,12 @@
   <img src="https://github.com/DelfinoRT/DelfinoRT/blob/main/head.png?raw=true" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Support Engineer who is exploring Cloud :cloud:, computer networking :computer: and web development while facilitating the world with my broad experience delivering quality deep-level technical support, performing in-depth problem analysis and staying ahead of hardware and software-related issues in custom-tailored applications. :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ I'm currently learning Python, PHP, React and Computer Networking.
+ I'm certanly amazed also with the power of Raspberry Pi and finding awesome projects with it, I'll soon put my hand on one of those fine pieces of technology.
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+I'm aiming to become CompTIA Network+ and CCNA Certified and get some cloud certificates as well.
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
