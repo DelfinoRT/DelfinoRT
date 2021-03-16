@@ -8,8 +8,9 @@
 
 I am a Support Engineer who is exploring Cloud :cloud:, computer networking :computer: and web development while facilitating the world with my broad experience delivering quality deep-level technical support, performing in-depth problem analysis and staying ahead of hardware and software-related issues in custom-tailored applications. :wink:
  
- I'm currently learning Python, PHP, React and Computer Networking.
- I'm certanly amazed also with the power of Raspberry Pi and finding awesome projects with it, I'll soon put my hand on one of those fine pieces of technology.
+ I'm currently learning <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">, <img src = "https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">, <img src = "https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"> and <img src = "https://img.shields.io/badge/-Computer%20Networking-8276AB">.
+ 
+ I'm certanly amazed also with the power of <img src = "https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white"> and finding awesome projects with it, I'll soon put my hand on one of those fine pieces of technology.
  
 I'm aiming to become CompTIA Network+ and CCNA Certified and get some cloud certificates as well.
  
@@ -23,6 +24,9 @@ I'm aiming to become CompTIA Network+ and CCNA Certified and get some cloud cert
 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+
+
+
 
 
 ---
