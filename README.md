@@ -18,7 +18,7 @@ I'm aiming to become CompTIA Network+ and CCNA Certified and get some cloud cert
  I'm a blockchain and <img src="https://img.shields.io/badge/-Cryptocurrency-3C3C3D?logo=ethereum&logoColor=white"> enthusiast and I'm always open to learn :books: more about technology related stuff.
  
 
-![Profile views](https://gpvc.arturio.dev/DelfinoRT)  <img src="https://img.shields.io/github/followers/DelfinoRT?label=Follow me" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/DelfinoRT)
 
 
 
@@ -29,10 +29,8 @@ I'm aiming to become CompTIA Network+ and CCNA Certified and get some cloud cert
 
 ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
