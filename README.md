@@ -6,7 +6,7 @@
   <img src="https://github.com/DelfinoRT/DelfinoRT/blob/main/head.png?raw=true" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Support Engineer who is exploring :cloud: Cloud, computer networking :computer: and web development while facilitating the world with my broad experience delivering quality deep-level technical support, performing in-depth problem analysis and staying ahead of hardware and software-related issues in custom-tailored applications. :wink:
+I am a Support Engineer who is exploring :cloud: Cloud, computer networking :computer: and web development while facilitating the world with my broad experience delivering quality deep-level technical support, performing in-depth problem analysis and staying ahead of hardware and software-related issues in custom-tailored applications.
  
  I'm currently learning <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">, <img src = "https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">, <img src = "https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"> and <img src = "https://img.shields.io/badge/-Computer%20Networking-8276AB">.
  
