@@ -55,7 +55,7 @@ I feel comfortable working with:
 ---
 
 
-### You can find in me in the web 🌍
+### Contact 🌍
 <img align="left" alt="DelfinoRT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/delfino-rosales/
 <br/>
 
