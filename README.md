@@ -12,10 +12,14 @@ I am a Cloud Support Engineer who is exploring Security and Computer Networking 
  
  I'm certanly amazed also with the power of <img src = "https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white"> and finding awesome projects with it, I'll soon put my hand on one of those fine pieces of technology.
  
-🟢 Experience in Major Incident Management and bridging multiple technical teams to get an issue resolved.
+🟢 Experience in Major Incident Management and bridging multiple technical teams to get an issue resolved
+
 🟢 Experience with Web Development technology and some programming languages such as HTML, CSS, JavaScript, Python, Bash scripting
-🟢 Proficient with Windows OS, MacOS and Linux OS environment.
-🟢 Ability to lead and mentor other team members while building together a strong product and platform knowledge.
+
+🟢 Proficient with Windows OS, MacOS and Linux OS environment
+
+🟢 Ability to lead and mentor other team members while building together a strong product and platform knowledge
+
 🟢 Networking and Cyber Security enthusiast, experience with Network Models, VPN, Firewall, TCP/IP, RestAPI, OAuth, SSO/SAML Authentication, Network Monitoring, Ethernet Standards, Protocols and more.
  
 
